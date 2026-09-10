@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 654 >>
+stream
+BT
+72 742 Td
+/F2 18 Tf
+(GOC Policies) Tj
+/F1 10 Tf
+0 -6 Td
+(Sample policy document for the docs/ folder.) Tj
+/F1 12 Tf
+0 -26 Td
+(1. Scope) Tj
+/F1 11 Tf
+0 -16 Td
+(Applies to all repositories and services inside the GOC workspace.) Tj
+/F1 12 Tf
+0 -22 Td
+(2. Data Handling) Tj
+/F1 11 Tf
+0 -16 Td
+(Secrets are stored in environment variables and never committed to git.) Tj
+0 -14 Td
+(Production data is never copied into local or test environments.) Tj
+/F1 12 Tf
+0 -22 Td
+(3. Review) Tj
+/F1 11 Tf
+0 -16 Td
+(Every change requires at least one reviewer before merging.) Tj
+/F1 10 Tf
+0 -30 Td
+(Placeholder content - replace with the approved policy text.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000956 00000 n 
+0000001026 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1101
+%%EOF
